@@ -1,9 +1,9 @@
 <h2>Hi, I'm Martin Aguilera!</h2>
 <img align='right' src="https://media.giphy.com/media/DivlOk2S7HzyOTc7my/giphy.gif?cid=790b7611baae286792f1199379fc9e26bc7817cdb4f379ea&rid=giphy.gif&ct=g" width="230">
-<p><em>Salesforce Developer at <a href="https://labsxd.com">LabsXD</a><img src="https://media.giphy.com/media/9L1KHvmu9ozGF0ubxV/giphy.gif?cid=ecf05e47k6v8g4wywwuxstzvxbet2hpb199ld2dr74gr5utf&rid=giphy.gif&ct=s" width="40"> 
+<p><em>Salesforce Developer at <a href="https://labsxd.com" target="_blank">LabsXD</a><img src="https://media.giphy.com/media/9L1KHvmu9ozGF0ubxV/giphy.gif?cid=ecf05e47k6v8g4wywwuxstzvxbet2hpb199ld2dr74gr5utf&rid=giphy.gif&ct=s" width="40"> 
 </em></p>
 <div>
-<p><a href="https://trailblazer.me/id/maguilera12"> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/11592ff48bc3b35bcd9945e6bde11319_badge.png" width="30"> Trailhead</a></p>
+<p><a href="https://trailblazer.me/id/maguilera12" target="_blank"> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/11592ff48bc3b35bcd9945e6bde11319_badge.png" width="30"> Trailhead</a></p>
 <p><a href="https://trailblazer.me/id/maguilera12"> <img src="https://cdn3.iconfinder.com/data/icons/blue-magic/256/LinkedIn.png" width="30"> Linkedin</a></p>
  </div>
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
